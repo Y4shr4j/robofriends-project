@@ -1,0 +1,11 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(SEGA.TTF);
+}
+  
+h1 {
+    font-family: myFirstFont;
+    color: black;
+    font-weight: 200;
+    color: lightseagreen;
+}
